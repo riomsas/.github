@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://consultingriom.com/" aria-label="Consulting RIOM S.A.S. — sitio oficial"><img src="https://consultingriom.com/assets/img/riom-wordmark.svg" alt="Logotipo oficial de Consulting RIOM S.A.S." width="220"></a>
+
 # CONSULTING RIOM S.A.S.
 
 ### Digital Transformation · Enterprise Architecture · Artificial Intelligence · Software Engineering
