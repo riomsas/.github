@@ -94,13 +94,21 @@ Conoce nuestros servicios e iniciativas a través del [**sitio institucional**](
 
 ## 🧠 Áreas técnicas | Technical focus
 
-**Software:** Python · JavaScript · PHP · SQL · APIs · Web Platforms
+Nuestro portafolio tecnológico integra **arquitectura, desarrollo de software, inteligencia artificial, datos, cloud, seguridad y operación de plataformas**. Estas capacidades se orientan al diseño, implementación y evolución de soluciones empresariales.
 
-**Architecture:** Enterprise Architecture · Domain-Driven Design · Modular Systems · Integration
+| Disciplina | Tecnologías y prácticas |
+| --- | --- |
+| **Frontend y experiencia digital** | React · Next.js · Angular · Vue.js · TypeScript · JavaScript · HTML5 · CSS3 · UX/UI · Accesibilidad · SEO · Rendimiento web |
+| **Backend, APIs y software empresarial** | Python · FastAPI · Django · Node.js · PHP · Laravel · Java · .NET / .NET Core · Go · APIs REST · SaaS · Arquitectura modular |
+| **Aplicaciones móviles** | Flutter · React Native · Swift · Experiencias multiplataforma |
+| **Datos, almacenamiento y analítica** | PostgreSQL · MySQL · MariaDB · SQL Server · SQLite · MongoDB · Redis · DynamoDB · Elasticsearch · Power BI · Microsoft Fabric · Business Intelligence · Data Engineering |
+| **Cloud e infraestructura** | AWS · Microsoft Azure · Google Cloud · DigitalOcean · Arquitectura cloud · Modernización de plataformas |
+| **DevOps, infraestructura como código y observabilidad** | Git · GitHub · GitHub Actions · Jenkins · Docker · Kubernetes · Terraform · Helm · Ansible · CloudFormation · CI/CD · Prometheus · Grafana · Datadog |
+| **Inteligencia artificial y automatización** | Machine Learning · NLP · IA generativa · LLM · AI Agents · RAG · OpenAI · Google Gemini · Azure AI · Microsoft Copilot · Power Platform · BPM/RPA |
+| **Ciberseguridad y calidad** | DevSecOps · IAM · Seguridad de aplicaciones y APIs · Análisis estático · Escaneo de vulnerabilidades · Pruebas automatizadas · Gestión de riesgos · Protección de datos |
+| **Arquitectura y entrega** | Enterprise Architecture · Business Architecture · Domain-Driven Design · Arquitectura hexagonal · Microservicios cuando aportan valor · Integración · Product Engineering · Agile Delivery |
 
-**Delivery:** Git · GitHub Actions · Automated Testing · DevOps · Quality Engineering
-
-**Business & AI:** Digital Strategy · Process Automation · Data Analytics · Applied AI
+**Enfoque de ejecución:** Consulting RIOM S.A.S. dirige y responde por las soluciones que ofrece, integrando estrategia, arquitectura, ingeniería, calidad, seguridad y resultados para el cliente.
 
 ## 👤 Liderazgo tecnológico | Technology leadership
 
