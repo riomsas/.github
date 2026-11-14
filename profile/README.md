@@ -124,6 +124,8 @@ La visibilidad pública de un repositorio **no autoriza el uso de marcas, activo
 
 **LinkedIn:** https://www.linkedin.com/company/consulting-riom
 
+**Facebook:** https://www.facebook.com/ConsultingRIOM/
+
 **GitHub:** https://github.com/riomsas
 
 ---
