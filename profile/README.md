@@ -33,11 +33,11 @@ Nuestro portafolio reúne las **siete líneas de servicio oficiales de Consultin
 | Línea de servicio | Servicios y soluciones |
 | --- | --- |
 | **[RIOM Transformación](https://consultingriom.com/riom/transformacion)** · Modernización y Transformación Empresarial | Diagnóstico de madurez digital y empresarial; diseño de hojas de ruta y proyectos de transformación; optimización de procesos, capacidades y modelos operativos; gestión del cambio y acompañamiento a la adopción. |
-| **[RIOM Tech](https://consultingriom.com/riom/tech)** · Arquitectura e Infraestructura Tecnológica | Arquitectura empresarial y tecnológica; modernización de plataformas; infraestructura y servicios cloud; integración de sistemas y APIs; seguridad tecnológica, continuidad operativa, evaluación de sistemas y escalabilidad. |
+| **[RIOM Tech](https://consultingriom.com/riom/tech)** · Arquitectura e Infraestructura Tecnológica | Arquitectura empresarial y tecnológica; modernización de plataformas; infraestructura y servicios cloud; integración de sistemas y APIs; **ciberseguridad, evaluación de riesgos tecnológicos, fortalecimiento de configuraciones, controles de acceso, continuidad operativa y protección de activos digitales**; evaluación de sistemas y escalabilidad. |
 | **[RIOM Digital](https://consultingriom.com/riom/digital)** · Experiencia y Crecimiento Digital | Estrategia y presencia digital; diseño y evolución de sitios y experiencias web; UX/UI y conversión; posicionamiento SEO; automatización digital; optimización de canales y crecimiento. |
 | **[RIOM Contable](https://consultingriom.com/riom/contable)** · Outsourcing Contable | Contabilidad y reportería gerencial; cumplimiento tributario y declaraciones; asesoría sobre NIIF; facturación electrónica e integración; tableros de control financiero y trazabilidad contable. |
 | **[RIOM Academy](https://consultingriom.com/riom/academy)** · Formación y Desarrollo de Capacidades | Capacitación empresarial e in-company; transformación digital; IA aplicada y generativa para negocios; innovación, Design Thinking, Agile y Design Sprint; experiencia de cliente; liderazgo digital y transferencia de conocimiento. |
-| **[RIOM Regulatorio](https://consultingriom.com/riom/regulatorio)** · Gestión Regulatoria y Cumplimiento | Diagnósticos de cumplimiento; evaluación de riesgos y brechas; diseño de controles; estructuración documental; seguimiento y planes de mejora para fortalecer trazabilidad y cumplimiento. |
+| **[RIOM Regulatorio](https://consultingriom.com/riom/regulatorio)** · Gestión Regulatoria y Cumplimiento | Diagnósticos de cumplimiento; evaluación de riesgos y brechas; diseño de controles; **privacidad, protección de datos, gestión de riesgos de información y gobierno de seguridad**; estructuración documental, seguimiento y planes de mejora para fortalecer trazabilidad y cumplimiento. |
 | **[RIOM Business](https://consultingriom.com/riom/business)** · Estrategia y Crecimiento Empresarial | Estrategia comercial B2B; arquitectura de propuesta de valor; prospección y generación de demanda; social selling; gestión de leads, oportunidades y pipeline; automatización comercial; indicadores de conversión y expansión de mercado. |
 
 ### Capacidades transversales | Cross-cutting capabilities
@@ -45,7 +45,8 @@ Nuestro portafolio reúne las **siete líneas de servicio oficiales de Consultin
 | Capacidad | Cómo agrega valor |
 | --- | --- |
 | **IA aplicada, datos y automatización** | Integración de inteligencia artificial y analítica en procesos, productos y decisiones; automatización orientada a resultados y adopción responsable. |
-| **Ingeniería de software y plataformas empresariales** | Desarrollo de soluciones web, APIs e integraciones; arquitectura modular, pruebas automatizadas, calidad, rendimiento y evolución controlada de productos digitales. |
+| **Ingeniería de software y plataformas empresariales** | Desarrollo de soluciones web, APIs e integraciones; arquitectura modular, desarrollo seguro, pruebas automatizadas, calidad, rendimiento y evolución controlada de productos digitales. |
+| **Seguridad y resiliencia digital** | Evaluación de riesgos y controles; seguridad de aplicaciones y APIs; gestión de accesos, protección de información, continuidad operativa y mejora de la postura de seguridad tecnológica. |
 | **Sostenibilidad y gobierno operativo** | Eficiencia de recursos, trazabilidad, fortalecimiento de capacidades, gestión responsable y mejora continua, alineadas con los objetivos del negocio. |
 
 **Cómo trabajamos:** diagnóstico ejecutivo → diseño y ruta priorizada → implementación → adopción → medición y optimización.
@@ -100,8 +101,6 @@ Conoce nuestros servicios e iniciativas a través del [**sitio institucional**](
 **Delivery:** Git · GitHub Actions · Automated Testing · DevOps · Quality Engineering
 
 **Business & AI:** Digital Strategy · Process Automation · Data Analytics · Applied AI
-
-Estas áreas describen trabajo y conocimientos técnicos; **no implican alianzas, acreditaciones ni certificaciones oficiales de fabricantes**.
 
 ## 👤 Liderazgo tecnológico | Technology leadership
 
