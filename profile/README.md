@@ -28,16 +28,30 @@ Diseñamos y evolucionamos soluciones digitales orientadas a la modernización d
 
 ## 🚀 Qué hacemos | What we do
 
-| Capacidad | Valor para las organizaciones |
+Nuestro portafolio reúne las **siete líneas de servicio oficiales de Consulting RIOM**, desde el diagnóstico hasta la ejecución, adopción y mejora de resultados. Conoce el [**portafolio integral de servicios**](https://consultingriom.com/servicios).
+
+| Línea de servicio | Servicios y soluciones |
 | --- | --- |
-| **Transformación digital** | Estrategia, modernización y evolución de modelos operativos. |
-| **Arquitectura empresarial y de soluciones** | Alineación entre capacidades de negocio, procesos, datos y tecnología. |
-| **Inteligencia artificial aplicada** | Automatización inteligente, soluciones asistidas por IA y experimentación responsable. |
-| **Ingeniería de software** | Aplicaciones web, APIs, integraciones y plataformas empresariales. |
-| **Datos y analítica** | Indicadores, visualización, análisis y apoyo a decisiones. |
-| **Innovación de productos digitales** | Diseño, experimentación, validación y mejora continua. |
-| **Calidad y gobierno tecnológico** | Pruebas, trazabilidad, control de cambios, seguridad y prácticas de entrega. |
-| **Formación tecnológica** | Aprendizaje aplicado y desarrollo de capacidades digitales. |
+| **[RIOM Transformación](https://consultingriom.com/riom/transformacion)** · Modernización y Transformación Empresarial | Diagnóstico de madurez digital y empresarial; diseño de hojas de ruta y proyectos de transformación; optimización de procesos, capacidades y modelos operativos; gestión del cambio y acompañamiento a la adopción. |
+| **[RIOM Tech](https://consultingriom.com/riom/tech)** · Arquitectura e Infraestructura Tecnológica | Arquitectura empresarial y tecnológica; modernización de plataformas; infraestructura y servicios cloud; integración de sistemas y APIs; seguridad tecnológica, continuidad operativa, evaluación de sistemas y escalabilidad. |
+| **[RIOM Digital](https://consultingriom.com/riom/digital)** · Experiencia y Crecimiento Digital | Estrategia y presencia digital; diseño y evolución de sitios y experiencias web; UX/UI y conversión; posicionamiento SEO; automatización digital; optimización de canales y crecimiento. |
+| **[RIOM Contable](https://consultingriom.com/riom/contable)** · Outsourcing Contable | Contabilidad y reportería gerencial; cumplimiento tributario y declaraciones; asesoría sobre NIIF; facturación electrónica e integración; tableros de control financiero y trazabilidad contable. |
+| **[RIOM Academy](https://consultingriom.com/riom/academy)** · Formación y Desarrollo de Capacidades | Capacitación empresarial e in-company; transformación digital; IA aplicada y generativa para negocios; innovación, Design Thinking, Agile y Design Sprint; experiencia de cliente; liderazgo digital y transferencia de conocimiento. |
+| **[RIOM Regulatorio](https://consultingriom.com/riom/regulatorio)** · Gestión Regulatoria y Cumplimiento | Diagnósticos de cumplimiento; evaluación de riesgos y brechas; diseño de controles; estructuración documental; seguimiento y planes de mejora para fortalecer trazabilidad y cumplimiento. |
+| **[RIOM Business](https://consultingriom.com/riom/business)** · Estrategia y Crecimiento Empresarial | Estrategia comercial B2B; arquitectura de propuesta de valor; prospección y generación de demanda; social selling; gestión de leads, oportunidades y pipeline; automatización comercial; indicadores de conversión y expansión de mercado. |
+
+### Capacidades transversales | Cross-cutting capabilities
+
+| Capacidad | Cómo agrega valor |
+| --- | --- |
+| **IA aplicada, datos y automatización** | Integración de inteligencia artificial y analítica en procesos, productos y decisiones; automatización orientada a resultados y adopción responsable. |
+| **Ingeniería de software y plataformas empresariales** | Desarrollo de soluciones web, APIs e integraciones; arquitectura modular, pruebas automatizadas, calidad, rendimiento y evolución controlada de productos digitales. |
+| **Sostenibilidad y gobierno operativo** | Eficiencia de recursos, trazabilidad, fortalecimiento de capacidades, gestión responsable y mejora continua, alineadas con los objetivos del negocio. |
+
+**Cómo trabajamos:** diagnóstico ejecutivo → diseño y ruta priorizada → implementación → adopción → medición y optimización.
+
+**[Explorar todos los servicios RIOM](https://consultingriom.com/servicios)** · **[Conocer nuestra metodología](https://consultingriom.com/)** · **[Solicitar un diagnóstico empresarial](https://consultingriom.com/)**
+
 
 ## 🏗️ Cómo construimos | Engineering approach
 
