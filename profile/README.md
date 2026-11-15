@@ -99,7 +99,7 @@ Nuestro portafolio tecnológico integra **arquitectura, desarrollo de software, 
 | Disciplina | Tecnologías y prácticas |
 | --- | --- |
 | **Frontend y experiencia digital** | React · Next.js · Angular · Vue.js · TypeScript · JavaScript · HTML5 · CSS3 · UX/UI · Accesibilidad · SEO · Rendimiento web |
-| **Backend, APIs y software empresarial** | Python · FastAPI · Django · Node.js · PHP · Laravel · Java · .NET / .NET Core · Go · APIs REST · SaaS · Arquitectura modular |
+| **Backend, APIs y software empresarial** | Python · FastAPI · Django · Node.js · NestJS · PHP · Laravel · Java · .NET / .NET Core · Go · APIs REST · SaaS · Arquitectura modular |
 | **Aplicaciones móviles** | Flutter · React Native · Swift · Experiencias multiplataforma |
 | **Datos, almacenamiento y analítica** | PostgreSQL · MySQL · MariaDB · SQL Server · SQLite · MongoDB · Redis · DynamoDB · Elasticsearch · Power BI · Microsoft Fabric · Business Intelligence · Data Engineering |
 | **Cloud e infraestructura** | AWS · Microsoft Azure · Google Cloud · DigitalOcean · Arquitectura cloud · Modernización de plataformas |
